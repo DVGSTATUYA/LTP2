@@ -55,7 +55,7 @@ streamlit run gui.py
 
 
 ## Технологии
-###Бэкенд (Backend):
+### Бэкенд (Backend):
 * Фреймворк: FastAPI (Python 3.9+)
 * База данных: SQLite (файл repair_requests.db)
 * Аутентификация: JWT (JSON Web Tokens)
@@ -63,13 +63,13 @@ streamlit run gui.py
 * Валидация: Pydantic
 * Запуск сервера: Uvicorn
 
-###Фронтенд (Frontend):
+### Фронтенд (Frontend):
 * Фреймворк: Streamlit
 * Визуализация: Plotly, Pandas
 * Генерация QR-кодов: qrcode[pil]
 * Стили: Встроенные компоненты Streamlit
 
-###База данных (SQLite):
+### База данных (SQLite):
 * Файл: repair_requests.db
 
 ## Основные функции
